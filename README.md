@@ -25,7 +25,7 @@
   💬 Ask me about for any help! Though, I probably will ask you for help instead!
 
   📫 How to reach me:  
-  Email me at yeoshitan@gmail.com or any of my social media accounts below if you want to talk about coding and everything in between!
+  Email me at yeoshitan@gmail.com or my social media accounts below if you want to talk about coding and everything in between!
 
 ⚡ Fun fact: I have a really cute pug, who decides what I should code next! :3
 
