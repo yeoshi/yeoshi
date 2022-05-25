@@ -14,7 +14,8 @@
 <div align="center">
   
 ## 💫About Me :
-✨ Hi! I'm **Yeoshi** and I may be new, but my only way is up in this coding game! _JOIN ME IN MY CODING MASTER JOURNEY !_ ✨ 
+Hi! I'm **Yeoshi** and I may be new, but my only way is up in this coding game!
+	✨ _JOIN ME IN MY CODING MASTER JOURNEY !_ ✨ 
 
 🔭 I’m currently working on: Integrating different applications using webhooks!
   
